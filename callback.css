@@ -1,0 +1,11 @@
+.happy{
+    color: rgb(201, 32, 83);
+    background-color: rgb(200, 220, 20);
+    height: 100vh;
+    text-align: center;
+    display: grid;
+    align-content: center;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
